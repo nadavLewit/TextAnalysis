@@ -3,4 +3,5 @@ This project takes a text as an input and analyzes it to return a [Flesch-Kincai
 
 ## How to run
 Input the desired text to data/Texts
+
 Compile and run the Readability class, found in src.
